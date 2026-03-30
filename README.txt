@@ -27,7 +27,7 @@ Para garantir a precisão dos KPIs e a melhor experiência do usuário, as segui
 
 ## 🚀 Como Executar
 Para visualizar o ETL, abra o script Python na pasta `/scripts`.
-Para interagir com o dashboard, abra o arquivo link público
+Para interagir com o dashboard, abra o arquivo link público (Necessário uma conta)
 
 ---
 **Desenvolvido por:** Guilherme Pires Oliveira
