@@ -23,13 +23,11 @@ Para garantir a precisão dos KPIs e a melhor experiência do usuário, as segui
 ## 📂 Estrutura do Repositório
 * `/scripts`: Contém o código fonte do ETL em Python.
 * `/dashboard`: Contém prints de tela do painel finalizado.
-* `/data`: (Se aplicável) Amostra dos dados gerados após a limpeza.
+* `/data`: Amostra dos dados gerados após a limpeza.
 
 ## 🚀 Como Executar
-1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
-2. Para visualizar o ETL, abra o script Python na pasta `/scripts`.
-3. Para interagir com o dashboard, abra o arquivo o link público
+Para visualizar o ETL, abra o script Python na pasta `/scripts`.
+Para interagir com o dashboard, abra o arquivo link público
 
 ---
-**Desenvolvido por:** Guilherme
-**Contato:** [Seu LinkedIn / E-mail]
+**Desenvolvido por:** Guilherme Pires Oliveira
