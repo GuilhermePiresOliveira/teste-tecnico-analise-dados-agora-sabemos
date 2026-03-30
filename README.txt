@@ -22,12 +22,12 @@ Para garantir a precisão dos KPIs e a melhor experiência do usuário, as segui
 
 ## 📂 Estrutura do Repositório
 * `/scripts`: Contém o código fonte do ETL em Python.
-* `/dashboard`: Contém prints de tela do painel finalizado.
+* `/dashboard`: Contém prints de tela do painel finalizado e Link para o Dashboard interativo.
 * `/data`: Amostra dos dados gerados após a limpeza.
 
 ## 🚀 Como Executar
 Para visualizar o ETL, abra o script Python na pasta `/scripts`.
-Para interagir com o dashboard, abra o arquivo link público (Necessário uma conta)
+Para interagir com o dashboard, abra o arquivo link público (Necessário uma conta), que esta na pasta /dashboard
 
 ---
 **Desenvolvido por:** Guilherme Pires Oliveira
